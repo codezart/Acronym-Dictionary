@@ -1,0 +1,16 @@
+.button{
+    -fx-background-color: #2b2c2e;
+    -fx-text-fill: #c25a00;
+
+    /*-fx-font-weight: bold;*/
+}
+.root{
+    -fx-background-color: #1a1918;
+        -fx-text-fill: #c25a00;
+}
+#textField{
+    -fx-background-color: grey;
+}
+#areaField{
+    -fx-background-color: grey;
+}
